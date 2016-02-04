@@ -1,4 +1,4 @@
-# GitHub Training — February 4, 2016
+﻿# GitHub Training — February 4, 2016
 
 ## Instructors
 - Allen Smith (@loranallensmith)
@@ -12,3 +12,7 @@
 - [Atom Text Editor](https://atom.io/)
 -testadded.
 -test2
+
+https://www.google.com
+
+
