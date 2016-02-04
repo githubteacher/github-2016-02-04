@@ -3,4 +3,4 @@
 - Name: GitHub Teacher
 - Email: trainingdemos+githubteacher@github.com
 - Occupation: Teacher
-- Location: San Francisco
+- Location: San Francisco, California, USA, Earth
